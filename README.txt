@@ -9,3 +9,6 @@ Click here for my blog:
  
  The Home Page:
  http://athelo.net 
+ 
+ All about the beginning of Aezlo
+  http://athelo.net/the_birth_of_aether
